@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#9400D3&height=120§ion=header"/>
-
 ### Olá!! Eu sou a Camila Almeida
 #### 📌 Estudante de programação e tecnologia! 
 
