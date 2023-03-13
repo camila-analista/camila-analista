@@ -21,4 +21,3 @@
   <img align="center" alt="Camila-Postgresql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
           
 </div>       
- 
