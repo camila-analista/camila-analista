@@ -2,11 +2,9 @@
 #### 📌 Estudante de programação e tecnologia! 
 
 <div>
-  <a href="https://github.com/camila-analista">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=camila-analista&show_icons=true&theme=dracula&include_all_commits=true&count_prvate=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camila-analista&layout=compact&langs_count=16&theme=dracula"/>
-</div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camila-analista&show_icons=true&theme=radical)
+ 
 [![ Gráfico de atividade github de Ashutosh ](https://github-readme-activity-graph.cyclic.app/graph?username=camila-analista&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)
 
 <div align="center">
